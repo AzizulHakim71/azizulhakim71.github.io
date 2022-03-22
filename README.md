@@ -11,7 +11,7 @@ First of all, you need to have a markdown-formatted resume. *Markdown* is a ligh
 
 Instructions
 ---
-1. **Create a GitHub account.**
+**Create a GitHub account.**
     1. Click on Sign up button if you do not have an account.
     2. Enter your email.
     3. Click on continue.
@@ -23,7 +23,7 @@ Instructions
     9. Click on create account.
     10. Enter the verification code that is sent to your email.
     11. Click on continue and you will see your dashboard.
-2. **Create a repository on GitHub.**
+**Create a repository on GitHub.**
     1. Click on the "*+*" sign to the left of the profile logo on the top right corner. ![New Repo]
     2. Click on new repository.
     3. Name the repository as your username.github.io.
@@ -32,13 +32,13 @@ Instructions
     5. Scroll down to uncheck add a README file for now.
     6. Scroll down to choose a licence.
     7. Click on create repository.
-3. **Add your files to your repository.**
+**Add your files to your repository.**
     1. Click on add a file.
     2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
     3. Add a title in the commit box.
     4. Click on commit changes button.
 > Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
-4. **Create a static website using Jekyll theme.**
+**Create a static website using Jekyll theme.**
     1. Click on settings.
     2. Go to pages.
     3. Click on source to set the branch to main.
@@ -63,6 +63,7 @@ More resources
 Authors and Acknowledgments
 ---
 * Etter, Andrew. [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), 2016.
+* Group Members: Joshua Smallwood, Deepta Mandal, Harshal Bhalerao
 
 FAQs
 ---
