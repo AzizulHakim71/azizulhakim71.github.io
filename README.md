@@ -53,9 +53,6 @@ Instructions
     12. Type https://username.github.io/ (your user name) to see the static website.
 > This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see a cleaner static webiste from your markdown contents. He also stated that moving the entire website is simple too as it does not depend on any third party application or database.
 
-**Your final resume should look like this website.**\
-![gif](https://media.giphy.com/media/BKidylGsLhMkP7YKdR/giphy.gif)
-
 More resources
 ---
 * [Markdown Tutorial](https://www.markdownguide.org/getting-started/)
