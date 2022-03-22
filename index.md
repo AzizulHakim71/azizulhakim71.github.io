@@ -29,7 +29,7 @@ team members using C# .NET, MS SQL server, Microsoft Azure DevOps, and Agile/SCR
 - Showcased the development progress of these features in tri-weekly sprint reviews in front of other teams.
 - Completed PCI DSS training, HackEDU secured training and BAI compliance courses to learn secure coding.
 
-## PROJECTS
+## PROJECT
 **Rentr (Group project for Software Engineering 2)**	<span style="float: right;">Jan 2021 - April 2021</span>  
 A website like Kijiji that aims to create a marketplace for renting apartments. 
 - Build the website using React/Redux for the frontend, Node Js with Express for the backend and PostgreSQL for
